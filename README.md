@@ -11,8 +11,9 @@ Your hub can be accessed from any internet-enabled device for anywhere in the wo
 * It may be benefical to elect a *team maintainer* so that your original files do not accidentally get overwritten.
 * Make use of branches before committing to your master branch.
 
-
-<h2>Solution Pitch Rubric</h2>
+<br><br>
+Below is the rubric for the solution pitch (see myCourses for more details). <br>
+<h3>Solution Pitch Rubric</h3>
     <table>
       <tr>
         <th>Criteria</th>
