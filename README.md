@@ -80,4 +80,4 @@ Below is the rubric for the solution pitch (see myCourses for more details). <br
       </tr>
     </table>
 
-This file was last updated on July 9 at 14:34.
+This file was last updated on July 9 at 14:35.
